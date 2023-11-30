@@ -22,6 +22,7 @@ def player_input():
         else:
             print("Invalid input. Please try again.")
 
+
 # Define a function to determine the winner of each round
 def winner(player_choice, computer_choice):
     # Declare global variables to be modified
